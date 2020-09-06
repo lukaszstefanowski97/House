@@ -119,7 +119,7 @@ public class House {
     public void displayHouseInfo() {
         System.out.println("Date of build: " + dateOfBuild
                 + "\nRoom quantity: " + rooms.size()
-                + "\nWoth: " + worth
+                + "\nWorth: " + worth
                 + "\nTotal surface: " + totalSurface);
 
         System.out.println("\n\nConstruction Element Quantity:\n");
